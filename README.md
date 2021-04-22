@@ -1,4 +1,4 @@
-# Hi, I'm Jeanré and I like trains,  errrrr.... I mean coding (No ASDF Movie references here)
+# Hi, I'm Jeanré
  
 I'm currenly a student at the University of Pretoria
 
