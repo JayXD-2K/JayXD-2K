@@ -1,4 +1,4 @@
-# Hi, I'm Jeanré and I like trains
+# Hi, I'm Jeanré and I like trains errrmmm.... I mean coding
 
 I'm currenly a student at the University of Pretoria
 
