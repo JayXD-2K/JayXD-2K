@@ -5,6 +5,8 @@ I'm currenly a student at the University of Pretoria, completing my final year o
 ## Current interests include : 
   - Cycling 
   - Creating simple REST apis using django
+  - Researching new technologies
+
  
 
 
