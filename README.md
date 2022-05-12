@@ -8,9 +8,3 @@ I'm currenly a student at the University of Pretoria, completing my BSc. Hons in
   - AWS
   - CockroachDB
   - ActiveJ
-
- 
-
-
-## Website
-[Link](https://jayxd-2k.github.io/) to personal webiste
